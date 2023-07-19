@@ -1,23 +1,9 @@
-# ReactOnePage
-It's a company profile website developed with React.js. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# Capacol
 
-## Main Features:
-### Company Overview:
-- Two sections, one with video and one with picture.
+Disfruta nuevas experiencas, nuevos sabores, la satisfacción esta __*GARANTIZADA*__
 
-### Ecosystem:
-- Two section, can be used as description
+## Nosotros
 
-### Products:
-- Four sections, mainly words
+Somos una empresa de alimentos ubicada en Ibagué, TOL.
 
-### Plan:
-- Two section, words and picture.
-
-### About us:
-- Four sections, words and member pictures with introduction.
-
-### Footer:
-- Four columns with pictures.
-
-
+Nos interesa especialmente crear productos de la más alta calidad para nuestros clientes, nuestros productos se basan en la extracción local, ayudando al campesino y otorgando la mejor experiencia posible al deleitar nuestro sabor.
